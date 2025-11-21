@@ -5,7 +5,7 @@ import ContactForm from './ContactForm';
 
 const Contact: React.FC = () => {
 	return (
-		<section id="contact" className="py-20 bg-gray-50">
+		<section id="contact" className="py-20 bg-gray-50 rounded-xl">
 			<div className="max-w-7xl mx-auto px-5 sm:px-10">
 				{/* Header */}
 				<div className="text-center mb-16">
